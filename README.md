@@ -1,5 +1,5 @@
 
-#  Plataforma de Compra, Venda e Troca de Itens taticos
+#  Plataforma Ammunation
 
 Documentação do projeto desenvolvido como atividade da disciplina de **APOO (Análise e Projeto Orientado a Objetos)**, no Curso Técnico em Desenvolvimento de Sistemas para Internet – IFRN Campus Natal-Central.
 

@@ -1,54 +1,61 @@
-# Ammunation-Store
 
-  Documentacao do projeto desenvolvido como atividade da disciplina de analise de programacao orienteada a objeto APOO, no Curso Tecnico em Desenvolvimento de Sistemas para Internet IFRN-Campus Natal-Central.
+#  Plataforma de Compra, Venda e Troca de Itens taticos
 
-# Visao do produto
+Documentação do projeto desenvolvido como atividade da disciplina de **APOO (Análise e Projeto Orientado a Objetos)**, no Curso Técnico em Desenvolvimento de Sistemas para Internet – IFRN Campus Natal-Central.
 
-## Objetivo
-  Esse sistema tem como objetivo unificar em uma unica plataforma todo o mercado de taticos e militarizados em geral.
+---
 
-## Publico-Alvo
-  civis, policia, militares, empresas ou paises.
+##  Visão do Produto
 
-## principais-funcionalidades
+**🎯 Objetivo**  
+O sistema tem como objetivo permitir que usuários possam anunciar, comprar e trocar itens de forma segura e organizada, oferecendo funcionalidades de comunicação, avaliação e gerenciamento de transações.
 
-  - cadastro de [usuarios, lojas, empresas e produtos]
-  - busca e consulta de produtos e estoques
-  - [cadastrar loja, cadastrar usuario, filtrar tipo de usuario]
+**👥 Público-Alvo**  
+Usuários que desejam vender, comprar ou trocar produtos usados ou novos, abrangendo tanto pessoas físicas quanto pequenos comerciantes.
 
-## restricoes-e-premissas
+**⚙️ Principais Funcionalidades**
+- Cadastro de usuários.
+- Publicação de anúncios com fotos e descrição detalhada.
+- Compra de produtos com pagamento integrado.
+- Sistema de mensagens entre usuários.
+- Avaliação de vendedores e compradores.
 
-  - desenvolvido para uso via navegador(web) aplicativo
-  - interface responsiva
-  - Baseado no estudo de caso apresentado na disciplina de Banco de Dados
+**🔒 Restrições e Premissas**
+- Desenvolvido para uso via navegador (web).
+- Interface responsiva.
+- Baseado no estudo de caso proposto na disciplina de Banco de Dados.
 
-# casos de uso
+---
 
-  Os principais casos de uso identificados sao:
+##  Casos de Uso
 
-  1. Realizar cadastro de usuario ou loja
-  2. Consultar informacoes de de compra,venda ou troca.
-  3. Emitir relatorio de compra, venda ou troca
+Os principais casos de uso identificados são:
+1. Cadastro de usuário.
+2. Publicação de anúncio.
+3. Compra de produto.
 
-  Para mais detalhes, acesse o arquivo Casos-de-uso.md
+ [Ver descrição detalhada dos casos de uso](Casos-de-uso_corrigido.md)
 
-# modelo-conceitual
+---
 
-  O modelo conceitual representa as classes de analise do sistema, com seus principais atributos e relacionamentos.
+##  Modelo Conceitual
 
-  Link para o Diagrama de classes de Analise
-  
-  As descricoes das classes estao disponiveis no arquivo modelo-conceitual.md.
+O modelo conceitual representa as classes de análise do sistema, com seus principais atributos e relacionamentos.
 
-# Tecnologias-utilizadas
+ [Ver descrição detalhada do modelo conceitual](modelo-conceitual.md)  
+ [Visualizar diagrama](modelo_conceitual_plataforma.png)
 
-  - Documentacao escrita em Markdown
-  - Diagramas elaborados com ERDplus e astah
-  - Repositorio hospedado no GitHub
+---
 
-  # Equipe
+##  Tecnologias Utilizadas
+- Documentação escrita em Markdown.
+- Diagramas elaborados com Graphviz.
+- Repositório hospedado no GitHub.
 
+---
 
-|      Nome      |   Matricula    |
-|----------------|----------------|
-| Jaziel Marcelo | 20231011110027 |
+##  Equipe
+
+| Nome do Aluno        | Matrícula        |
+|----------------------|------------------|
+| Jaziel Marcelo       | 20231011110027   |

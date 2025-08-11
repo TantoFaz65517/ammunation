@@ -1,15 +1,15 @@
-Visão do produto
+Visao do produto
 
 #Ammunation-Store
 
 ##objetivo do produto
-  O produto tratasse de uma plataforma de utensílios militares, feito para tanto para o público civil quanto militar.
+  O produto tratasse de uma plataforma de utensilios militares, feito para tanto para o publico civil quanto militar.
 
 ##Principais funcionalidades
- A plataforma terá como principais funções: criações de lojas, compra e venda de produtos, trocas e comunidades de usuário.
+ A plataforma tera como principais funcoes: criacoes de lojas, compra e venda de produtos, trocas e comunidades de usuario.
 
-##Público alvo
- O projeto terá como alvo civis, militares, instituições privadas e países.
+##Publico alvo
+ O projeto tera como alvo civis, militares, instituicoes privadas e paises.
 
-##Restrições e premissas
-  GitHub, VScode, google.
+##Restricoes e premissas
+  GitHub, VScode, google chrome.

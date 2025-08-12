@@ -34,7 +34,8 @@ Os principais casos de uso identificados são:
 2. Publicação de anúncio.
 3. Compra de produto.
 
- [Ver descrição detalhada dos casos de uso](Casos-de-uso_corrigido.md)
+ [Ver descrição detalhada dos casos de uso](Casos-de-uso.md)
+ [Visualizar diagrama](diagrama-de-casos-de-uso.png)
 
 ---
 
